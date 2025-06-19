@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+*.egg-info/
+*.egg
+.eggs/
+
+# Distribution / packaging
+build/
+dist/
+*.tar.gz
+*.whl
+
+# Logs
+*.log
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# dotenv environment variables file
+.env
