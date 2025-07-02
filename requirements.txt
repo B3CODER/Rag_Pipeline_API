@@ -1,0 +1,33 @@
+# --- FastAPI and Server ---
+fastapi
+uvicorn
+
+# --- LangChain Core ---
+langchain-core
+langchain-community
+
+# --- Google Gemini LLM ---
+langchain-google-genai
+google-generativeai
+
+# --- HuggingFace Embeddings ---
+langchain-huggingface
+transformers
+sentence-transformers
+torch
+
+# --- Vector Store: Qdrant ---
+qdrant-client
+langchain-qdrant
+
+# --- PDF Parsing ---
+pdfplumber
+PyPDF2
+
+# --- Environment Config ---
+python-dotenv
+pydantic
+
+# Add any other dependencies your services use
+
+
